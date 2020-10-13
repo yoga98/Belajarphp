@@ -71,6 +71,7 @@
     // print_r($data);
     $data[0][0]="yoga muhamad Rimba andika";
     echo $data[0][0];
+    var_dump($data);
     ?>
 </body>
 </html>
